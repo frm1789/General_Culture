@@ -13,3 +13,4 @@ For example:
 - A classic, what is big data? 
 - What is Deep Learning? What is Machine Learning? 
 - How domains works? What is an IP? Are domain and IP the same? What is a protocol?
+- What volatile means?

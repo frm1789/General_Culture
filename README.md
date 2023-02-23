@@ -14,3 +14,4 @@ For example:
 - What is Deep Learning? What is Machine Learning? 
 - How domains works? What is an IP? Are domain and IP the same? What is a protocol?
 - What volatile means?
+- How Spark works? What are the difference between Spark and Hadop? Hint: Dynamic size of block.

@@ -4,20 +4,17 @@ I think that there is an opportunity to write and explain concepts and ideas tha
 
 For example:
 
-- How private and public key works.
 - How encoding and decoding works.
 - How compression works.
-- What is an algorithm? 
 - What are the FAANG companies?
 - What is Data Science? What are the difference between data analyst, data engineer and data scientific?
-- A classic, what is big data? 
 - What is Deep Learning? What is Machine Learning? 
 - How domains works? What is an IP? Are domain and IP the same? What is a protocol?
 - What volatile means?
 - How Spark works? What are the difference between Spark and Hadop? Hint: Dynamic size of block.
 
 Another set of ideas:
-- How putty works
+- (Hands on tutorial) How private and public key works: Using putty
 - (Hands on tutorial) How to create your own map reduce in python
 - (Hands on tutorial) How to work with Hive
 - (Hands on tutorial) How to work with Hadoop streaming.

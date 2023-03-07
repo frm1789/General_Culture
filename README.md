@@ -1,4 +1,4 @@
-# General_Culture
+# Some ideas to develop
 
 I think that there is an opportunity to write and explain concepts and ideas that are very well-known for those who made a career in Information Technology, but are remains obscure and cryptic for others.
 
@@ -15,3 +15,9 @@ For example:
 - How domains works? What is an IP? Are domain and IP the same? What is a protocol?
 - What volatile means?
 - How Spark works? What are the difference between Spark and Hadop? Hint: Dynamic size of block.
+
+Another set of ideas:
+- How putty works
+- (Hands on tutorial) How to create your own map reduce in python
+- (Hands on tutorial) How to work with Hive
+- (Hands on tutorial) How to work with Hadoop streaming.
